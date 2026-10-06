@@ -1,0 +1,10 @@
+Cat2.txt
+cat
+hat
+cat
+ball
+book
+hand
+cup
+hat
+cat
